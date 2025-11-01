@@ -53,7 +53,7 @@ This dashboard helps users understand the key trends driving the EV industry, in
 
 <h2>🌐 Tableau Public Link</h2>
 <p>
-🔗 <a href="https://public.tableau.com/app/profile/shivani.vemula2719/vizzes" target="_blank">View the Dashboard on Tableau Public</a>  
+🔗 <a href="https://public.tableau.com/app/profile/shivani.vemula2719/viz/ElectricvehicleAnalysis_17591482990760/Dashboard1" target="_blank">View the Dashboard on Tableau Public</a>  
 <br>
 </p>
 
