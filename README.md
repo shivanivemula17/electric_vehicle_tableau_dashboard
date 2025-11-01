@@ -9,7 +9,6 @@ It provides insights into the adoption, growth trends, and performance metrics o
 This dashboard helps users understand the key trends driving the EV industry, including sales growth, market share, charging infrastructure, and environmental impact.
 </p>
 
-<hr>
 
 <h2>🎯 Objectives</h2>
 <ul>
@@ -38,6 +37,7 @@ This dashboard helps users understand the key trends driving the EV industry, in
   <li>Comparison between <b>EVs and traditional vehicles</b> in terms of CO₂ emissions reduction.</li>
 </ul>
 
+
 <hr>
 
 <h2>💡 Features</h2>
@@ -47,7 +47,6 @@ This dashboard helps users understand the key trends driving the EV industry, in
   <li>Geographical map showing <b>EV distribution</b> across regions.</li>
   <li>Category-wise comparison between <b>BEVs</b> and <b>PHEVs</b>.</li>
 </ul>
-
 
 <hr>
 
@@ -67,9 +66,16 @@ It strengthened my understanding of <b>data analysis, dashboard design, </b> and
 
 <hr>
 
+<p align="center">
+  <img src="Screenshot 2025-11-01 161650.png" alt="Electric Vehicle Dashboard Screenshot" width="800">
+</p>
+
+<hr>
+
 <h2>🧾 Author</h2>
 <p>
 👩‍💻 <b>Shivani Vemula</b><br>
 📍 Hyderabad, India <br>
 💼 Tableau | Data Visualization | Analytics
 </p>
+
