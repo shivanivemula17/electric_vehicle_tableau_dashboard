@@ -67,7 +67,7 @@ It strengthened my understanding of <b>data analysis, dashboard design, </b> and
 <hr>
 
 <p align="center">
-  <img src="Screenshot 2025-11-01 161650.png" alt="Electric Vehicle Dashboard Screenshot" width="800">
+  <img src="Screenshot 2025-11-01 161911.png" alt="Electric Vehicle Dashboard Screenshot" width="800">
 </p>
 
 <hr>
